@@ -6,8 +6,8 @@ public class Main{
     
         Scanner sc = new Scanner(System.in);
         
-        Double A = sc.nextDouble();
-        Double B = sc.nextDouble();
+        double A = sc.nextDouble();
+        double B = sc.nextDouble();
         
         System.out.println(A/B);
         
